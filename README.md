@@ -1,4 +1,4 @@
-#Learning Dashboard
+# Learning Dashboard
 
 A static webpage to act as a dashboard to track learner progress
 
