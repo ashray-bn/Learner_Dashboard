@@ -22,4 +22,6 @@ Features:
 
 Limitations (Future improvements)
 - Static webpage with minimal interactivity
-- 
+- Performance analytics are limited to weekly score trends provided in the mock dataset
+- The application does not support real-time updates or live synchronization across users
+- User authentication and role-based access control are not implemented.
